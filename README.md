@@ -1,4 +1,4 @@
-# car-surface-defect-detection-demo
+# Car Surface Defect Detection Demo
 Demo video of car defect detection system that utilizes CV models to identify surface defects on vehicle body surface
 ## Demo 
 ![UI](https://github.com/ychien-lin/car-surface-defect-detection-demo/blob/main/demo_1.png)
